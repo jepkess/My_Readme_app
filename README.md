@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ Collaborative, responsible, detail-oriented, and inquisitive
+- ⚡ Collaborative, responsible, detail-oriented, inquisitive and game changer.
   
-- 🌱 I’m currently learning **Java, Web3, kotlin,flutter,Data structures**
+- 🌱 I’m currently learning **Java, Web3, kotlin, flutter and Data structures**
 
 - 👨‍💻 More on **[My Portfolio](https://alain-kubwayo.web.app)**
 
@@ -27,7 +27,7 @@
 </p>
 
 ## Connect with me:
-<p align="left">
+<p align="centre">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alain-honore-kubwayo-58633b247/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ahkubwayo@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://alain-kubwayo.web.app)
 ___
