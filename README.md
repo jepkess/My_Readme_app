@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Java, Web3, kotlin, flutter and Data structures**
 
-- 👨‍💻 More on **[My Portfolio](https://alain-kubwayo.web.app)**
+- 👨‍💻 More on **[My Portfolio](https://jepkess.github.io/Updatedportfolio/)**
 
 - 📫 How to reach me **biivincent1997@gmail.com**
 
