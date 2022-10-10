@@ -7,6 +7,7 @@
 - ⚡ Collaborative, responsible, detail-oriented, inquisitive and game changer.
   
 - 🌱 I’m currently learning **Java, Web3, kotlin, flutter and Data structures**
+- 🌱 I am passionate in  **JavaScript, Python(FLASK,DJANDO), HTML and CSS & BOOTSTRAP**
 
 - 👨‍💻 More on **[My Portfolio](https://jepkess.github.io/Updatedportfolio/)**
 
